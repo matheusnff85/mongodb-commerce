@@ -6,7 +6,7 @@ Neste projeto o objetivo era trabalhar com o banco de dados mongo, contendo dado
 
 ### Tecnologias utilizadas
 
-**MongoDB e Docker**.
+MongoDB e Docker.
 
 ---
 
