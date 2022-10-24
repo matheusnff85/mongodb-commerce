@@ -2,9 +2,13 @@
 
 Neste projeto o objetivo era trabalhar com o banco de dados mongo, contendo dados do cardápio do McDonald's como ingredientes, valores nutricionais, e dados fictícios de vendas, por meio de desafios os comandos para o banco de dados foram desenvolvidos cada um em seu respectivo arquivo de nome `desafioN.js` sendo N números de 1 a 32 os mesmos estão localizados na pasta `./challenges`.
 
+---
+
 ### Tecnologias utilizadas
 
-MongoDB e Docker.
+**MongoDB e Docker**.
+
+---
 
 ### Como utilizar a aplicação
 
